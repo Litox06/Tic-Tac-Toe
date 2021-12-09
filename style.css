@@ -48,6 +48,9 @@
     cursor: pointer;
 }
 
+.playerX {
+    color: #09C372;
+}
 .playerO {
     color: #498AFB;
 }
